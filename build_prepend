@@ -1,0 +1,3 @@
+for subdir in $(make list_subdirs); do
+	(cd $subdir && autoreconf -vfi);
+done

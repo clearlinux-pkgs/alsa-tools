@@ -4,7 +4,7 @@
 #
 Name     : alsa-tools
 Version  : 1.2.2
-Release  : 1
+Release  : 2
 URL      : https://github.com/alsa-project/alsa-tools/archive/v1.2.2.tar.gz
 Source0  : https://github.com/alsa-project/alsa-tools/archive/v1.2.2.tar.gz
 Summary  : No detailed summary available

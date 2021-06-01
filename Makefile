@@ -1,5 +1,5 @@
 PKG_NAME := alsa-tools
-URL = https://github.com/alsa-project/alsa-tools/archive/v1.2.5/alsa-tools-1.2.5.tar.gz
+URL = https://www.alsa-project.org/files/pub/tools/alsa-tools-1.2.5.tar.bz2
 ARCHIVES = 
 
 include ../common/Makefile.common

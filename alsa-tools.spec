@@ -6,7 +6,7 @@
 #
 Name     : alsa-tools
 Version  : 1.2.5
-Release  : 4
+Release  : 5
 URL      : https://www.alsa-project.org/files/pub/tools/alsa-tools-1.2.5.tar.bz2
 Source0  : https://www.alsa-project.org/files/pub/tools/alsa-tools-1.2.5.tar.bz2
 Source1  : https://www.alsa-project.org/files/pub/tools/alsa-tools-1.2.5.tar.bz2.sig

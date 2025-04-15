@@ -1,6 +1,6 @@
-/builddir/build/BUILDROOT/alsa-tools-1.2.11-7.x86_64/etc/:
-/builddir/build/BUILDROOT/alsa-tools-1.2.11-7.x86_64/etc/hotplug/usb:
-/builddir/build/BUILDROOT/alsa-tools-1.2.11-7.x86_64/etc/hotplug:
+/etc/:
+/etc/hotplug/usb:
+/etc/hotplug:
 hotplug
 tascam_fpga
 tascam_fw
